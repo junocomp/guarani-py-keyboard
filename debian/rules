@@ -1,0 +1,8 @@
+#!/usr/bin/make -f
+# debian/rules
+# -*- makefile -*-
+%:
+	dh $@
+override_dh_auto_install:
+	dh_auto_install
+

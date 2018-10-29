@@ -1,0 +1,14 @@
+Source: guarani-py-keyboard
+Section: base
+Priority: optional
+Build-Depends: debhelper, xkb-data
+Maintainer: Giovanni Caligaris <junocomputers@outlook.com>
+
+Package: guarani-py-keyboard
+Section: base
+Priority: optional
+Architecture: amd64
+Depends: xkb-data
+Homepage: https://junocomputers.com
+Description: Paraguayan Guarani keyboard layout for Ubuntu
+ Guarani (Paraguay) keyboard layout

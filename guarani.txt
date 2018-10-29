@@ -1,0 +1,8 @@
+    <layout>
+      <configItem>
+        <name>pyg</name>
+        <shortDescription>py</shortDescription>
+        <description>Guarani (Paraguay)</description>
+        <languageList><iso639Id>pyg</iso639Id></languageList>
+      </configItem>
+    </layout>

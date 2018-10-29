@@ -1,0 +1,13 @@
+#!/bin/bash
+
+if [ -f /usr/share/X11/xkb/rules/evdev.xml.bak ]; then
+    echo "evdev.xml.bak found, skipping";
+
+    else cp /usr/share/X11/xkb/rules/evdev.xml /usr/share/X11/xkb/rules/evdev.xml.bak && echo "created a evdev.xml backup";
+fi
+
+if grep "Guarani" "/usr/share/X11/xkb/rules/evdev.xml"; 
+    then echo "Skipping, 'Guarani' found on evdev.xml" 
+
+    else cd /usr/share/X11/xkb/ && sed -i '/<layoutList>/r guarani.txt' /usr/share/X11/xkb/rules/evdev.xml && echo "Guarani keyboard installed"; 
+fi

@@ -1,8 +1,8 @@
 # guarani-py-keyboard
 Paraguayan Guarani keyboard layout for Ubuntu.
 
-Ã Ẽ Ĩ Ḡ Õ Ũ Ỹ 
-₲ ₲ ₲ ₲ ₲ ₲ ₲
+<p>Ã Ẽ Ĩ Ḡ Õ Ũ Ỹ</p> 
+<p>₲ ₲ ₲ ₲ ₲ ₲ ₲</p>
 
 
 <img src="https://raw.githubusercontent.com/giovannicaligaris/guarani-py-keyboard/master/key.png">

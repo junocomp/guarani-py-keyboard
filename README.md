@@ -1,2 +1,2 @@
 # guarani-py-keyboard
-Paraguayan Guarani keyboard layout
+Paraguayan Guarani keyboard layout for Ubuntu.

@@ -1,5 +1,5 @@
 # guarani-py-keyboard
-Paraguayan Guarani keyboard layout for Ubuntu.
+Paraguayan Guarani keyboard layout for Ubuntu & Windows.
 
 <p>Ã Ẽ Ĩ Ḡ Õ Ũ Ỹ</p> 
 <p>₲ ₲ ₲ ₲ ₲ ₲ ₲</p>

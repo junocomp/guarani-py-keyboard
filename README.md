@@ -1,5 +1,6 @@
 # guarani-py-keyboard
-Paraguayan Guarani keyboard layout for Ubuntu & Windows.
+Paraguayan Guarani keyboard layout for Ubuntu (Linux) & Windows.
+Teclado Guarani para Ubuntu (Linux) y Windows
 
 Use Right Alt to activate keys
 

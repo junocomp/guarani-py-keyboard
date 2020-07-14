@@ -1,4 +1,4 @@
-# guarani-py-keyboard
+# guarani-py-keyboard / guarani-py-teclado
 Paraguayan Guarani keyboard layout for Ubuntu (Linux) & Windows.
 Teclado Guarani para Ubuntu (Linux) y Windows
 
